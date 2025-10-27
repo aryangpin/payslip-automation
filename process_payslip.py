@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """
 Payslip处理工具 - 根据Staff Code填充Excel
+
+重要：
+✅ 必须验证：Staff Code（必须在Excel模板中存在）
+❌ 不会修改：Staff Name, NRIC（保持原样）
+✅ 会填充：Basic Pay, OT, Incentive, EPF, SOCSO, EIS, Nett Pay
+
 提取数据：Basic Pay, OT, Incentive, EPF, SOCSO, EIS
 """
 
