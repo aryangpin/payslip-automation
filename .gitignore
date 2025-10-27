@@ -31,8 +31,8 @@ Thumbs.db
 output/
 output_*/
 *_output.xlsx
-SA - Filled*.xlsx
-SA - Updated*.xlsx
+# SA - Filled*.xlsx
+# SA - Updated*.xlsx
 
 # Logs
 *.log
